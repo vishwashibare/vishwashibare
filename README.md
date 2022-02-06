@@ -5,6 +5,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avishkarchavle&layout=compact&theme=aura)
  
 ## 📞 Contact Me 
-* Email: chavleavishkar@gmail.com
-* [@Linkedin](https://www.linkedin.com/in/avishkar-chavle-37b7a8215/)
+* Email: vishwashibare29@@gmail.com
+* [@Linkedin](https://www.linkedin.com/in/Vishwas Hibare-37b7a8215/)
 * [@instagram](https://www.instagram.com/iavishkar_/?utm_medium=copy_link/)
