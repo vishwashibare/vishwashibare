@@ -6,5 +6,5 @@
  
 ## 📞 Contact Me 
 * Email: vishwashibare29@@gmail.com
-* [@Linkedin](https://www.linkedin.com/in/Vishwas Hibare-37b7a8215/)
+* [@Linkedin](https://www.linkedin.com/in/Vishwas-Hibare-37b7a8215/)
 * [@instagram](https://www.instagram.com/iavishkar_/?utm_medium=copy_link/)
