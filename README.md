@@ -1,8 +1,8 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avishkarchavle&show_icons=true&theme=aura)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avishkarchavle&layout=compact&theme=aura)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishwashibare&show_icons=true&theme=aura)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwashibare&layout=compact&theme=aura)
  
 ## 📞 Contact Me 
 * Email: vishwashibare29@@gmail.com
